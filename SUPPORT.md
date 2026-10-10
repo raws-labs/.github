@@ -2,13 +2,13 @@
 
 Need help with a RAWS Labs project? Here's where to go.
 
-- **Documentation** — start with the project's own `README.md`; it links to any
+- **Documentation**: start with the project's own `README.md`; it links to any
   further documentation the project provides.
-- **Bugs and feature requests** — open an issue in the relevant repository using
+- **Bugs and feature requests**: open an issue in the relevant repository using
   the provided templates.
-- **Questions** — open an issue in the relevant repository. Please search the
+- **Questions**: open an issue in the relevant repository. Please search the
   existing issues first, in case it has already been answered.
-- **Security issues** — do not open a public issue; follow our
+- **Security issues**: do not open a public issue; follow our
   [security policy](https://github.com/raws-labs/.github/blob/main/SECURITY.md)
   and email contact@raws.at.
 
