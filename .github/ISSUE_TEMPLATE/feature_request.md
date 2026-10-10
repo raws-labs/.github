@@ -16,4 +16,4 @@ What you'd like to happen.
 Other approaches you've thought about.
 
 **Additional context**
-Anything else — examples, references, related issues.
+Anything else: examples, references, related issues.

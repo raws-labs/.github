@@ -23,4 +23,4 @@ What you expected to happen instead.
 - A minimal example that reproduces it, if applicable:
 
 **Additional context**
-Anything else that helps — logs, related issues, screenshots.
+Anything else that helps: logs, related issues, screenshots.
